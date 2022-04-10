@@ -1,5 +1,5 @@
 # Practicum
-All my projects from Yandex Practicum (Data Science, Python 2021).
+All my projects from Yandex Practicum (Data Science, Python, 2021).
 
 Language: Rus
 
